@@ -1,6 +1,6 @@
 # Automation Cypress
 
-#### I publish in that repository, my projects and some ideas, in my trailhead of cypress automation.
+#### I publish in that repository, my projects and some ideas of my knowledge trail in cypress.
 
 #### Let's Learn Together?!
 
