@@ -1,9 +1,13 @@
 # Automation Cypress
 
-I publish in That repository, my projects and some ideas, in my trailhead of cypress automation.
+#### I publish in that repository, my projects and some ideas, in my trailhead of cypress automation.
 
-Let's Learn Together?!
+#### Let's Learn Together?!
 
-= ]
+#keepwalking #keeplearning
 
-See ya!
+![Homem letra](https://github.com/professorjosedeassis/c/blob/master/homem%20letra.gif)
+
+
+See ya! <br> <br>
+😉
